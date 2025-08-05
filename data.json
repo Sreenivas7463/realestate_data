@@ -11,7 +11,52 @@
     "type": "Apartment",
     "featured": true,
     "rating": 4.8,
-    "description": "<ul><li>2.5cent plot---4.5lakh</li><li>plot size 22*49.6</li><li>EMI option available @10000/-</li><li>14km from tower clock Anantapur </li><li>30feet roads</li><li>1km away vaddipally tollgate </li><li>plantation </li><li>clear title </li><li>ready for registration</li></ul>"
+    "description": `<ul class="space-y-3"><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>2.5cent plot---4.5lakh</li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>plot size 22*49.6</li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>EMI option available @10000/-</li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>14km from tower clock Anantapur </li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>30feet roads</li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>1km away vaddipally tollgate </li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>plantation </li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>clear title </li><li class="flex">
+            <svg class="h-[1lh] w-5.5 shrink-0" viewBox="0 0 22 22" fill="none" stroke-linecap="square">
+              <circle cx="11" cy="11" r="11" class="fill-sky-400/25" />
+              <circle cx="11" cy="11" r="10.5" class="stroke-sky-400/25" />
+              <path d="M8 11.5L10.5 14L14 8" class="stroke-sky-800 dark:stroke-sky-300" />
+            </svg>ready for registration</li></ul>`
   },
   {
     "id": 2,
