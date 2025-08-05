@@ -8,6 +8,12 @@
     "bathrooms": 2,
     "area": 1200,
     "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/WhatsApp%20Image%202025-08-05%20at%2018.24.59_2ff17630.jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/WhatsApp%20Image%202025-08-05%20at%2018.24.59_b1df77ba.jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/WhatsApp%20Image%202025-08-05%20at%2018.26.37_5d92fd5b.jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/WhatsApp%20Image%202025-08-05%20at%2018.26.37_ccf3af5c.jpg"
+    ],
     "type": "Apartment",
     "featured": true,
     "rating": 4.8,
