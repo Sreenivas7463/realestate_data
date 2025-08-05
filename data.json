@@ -29,9 +29,9 @@
   },
   {
     "id": 3,
-    "title": "Cozy Suburban House",
+    "title": "Puneet Garden",
     "price": 650000,
-    "address": "789 Oak Avenue, Austin, TX",
+    "address": "6km away from collector office",
     "bedrooms": 3,
     "bathrooms": 2,
     "area": 1800,
@@ -39,7 +39,7 @@
     "type": "House",
     "featured": false,
     "rating": 4.5,
-    "description": "Charming suburban home with spacious backyard and modern amenities."
+    "description": "<ul><li>6km away from collector office</li><li>100% bank loan available </li><li>NO DOWN PAYMENT </li><li>3km near by RDT stadium </li><li>30feet BT Roads</li><li>Tap connection for each house </li><li>Electricity lines and Street lights</li><li>Avenue Plantations</li><li>Open Drainage system</li><li>100% Vastu </li><li>Compund wall</li><li>1 year site maintenance</li></ul>"
   },
   {
     "id": 4,
