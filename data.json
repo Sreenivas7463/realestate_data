@@ -104,6 +104,7 @@
     "type": "Townhouse",
     "featured": false,
     "rating": 4.6,
-    "description": "Beautifully restored historic townhouse with original architectural details."
+    "description": "Beautifully restored historic townhouse with original architectural details.",
+     "status": "Sold Out"
   }
 ]
