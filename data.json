@@ -59,7 +59,15 @@
     "bathrooms": 2,
     "openplot": "no",
     "area": 1800,
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(6).jpg",
+     "images": [
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(5).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(6).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(1).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(2).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(3).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/puneethgardens%20(4).jpg"
+       ],
     "type": "Houses / Villas",
     "featured": false,
     "rating": 4.5,
