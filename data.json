@@ -53,7 +53,7 @@
   {
     "id": 3,
     "title": "Puneet Garden",
-    "price": 650000,
+    "price": 3900000,
     "address": "6km away from collector office",
     "bedrooms": 3,
     "bathrooms": 2,
@@ -64,6 +64,9 @@
     "featured": false,
     "rating": 4.5,
     "description": "<ul><li>6km away from collector office</li><li>100% bank loan available </li><li>NO DOWN PAYMENT </li><li>3km near by RDT stadium </li><li>30feet BT Roads</li><li>Tap connection for each house </li><li>Electricity lines and Street lights</li><li>Avenue Plantations</li><li>Open Drainage system</li><li>100% Vastu </li><li>Compund wall</li><li>1 year site maintenance</li></ul>",
-     "negotiable": "true"
+    "pit": "Payment in Terms",
+    "emi" :"Yes",
+    "discount": "10% disc. On Spot Payment",
+    "negotiable": "true"
   }
 ]
