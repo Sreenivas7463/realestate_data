@@ -23,31 +23,6 @@
     "discount": "",
      "negotiable": "true"
   },
-   {
-    "id": 7,
-    "title": "Bellary Road, Anantapur",
-    "price": 550000,
-    "address": "Near Manipal int. School, Main Road Venture ",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "openplot": "yes",
-   "car": "yes",
-    "area": 1200,
-    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/bellaryroad%20(1).jpg",
-     "images": [
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/bellaryroad%20(2).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/bellaryroad%20(1).jpg"
-         ],
-    "type": "Plots",
-    "featured": true,
-    "rating": 4.8,
-    "description": "<ul><li>Corner plots and East, North faces plots Available </li><li>30 & 40 Feet BT Roads </li><li>Plots 3 cent, 4 cent, 5 cent Available </li><li>Compound wall for venture </li><li> Children's Park  </li><li>Avenue Plantations</li><li>Avenue Plantations</li>
-<li>Water Facilities </li><li>15mins Drive  to KIA Plant</li><li>30mins Drive to Anantapur</li><li>Future investment High Returns</li></ul>",
-    "emi" :"yes",
-    "zdp": "",
-    "discount": "",
-     "negotiable": "true"
-  },
   {
     "id": 6,
     "title": "Daduluru, Anantapur",
