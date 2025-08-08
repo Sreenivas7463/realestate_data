@@ -8,7 +8,8 @@
     "bathrooms": 2,
     "openplot": "yes",
    "car": "yes",
-    "area": 1200,
+   "area": 1200,
+   "area1": 1500,
     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/bellaryroad%20(1).jpg",
      "images": [
         "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/bellaryroad%20(2).jpg",
