@@ -1,5 +1,28 @@
 [
   {
+    "id": 6,
+    "title": "Daduluru, Anantapur",
+    "price": 180000,
+    "address": "NH44 Banglore 6 line Highway Venture",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+    "area": 1320,
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(2).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(3).jpg"
+         ],
+    "type": "Plots",
+    "featured": true,
+    "rating": 4.8,
+    "description": "<ul><li>Corner plots and East, North faces plots Available </li><li>30 & 40 Feet BT Roads </li><li>Plots 3 cent, 4 cent, 5 cent Available </li><li>Compound wall for venture </li><li> Children's Park  </li><li>Avenue Plantations</li><li>Avenue Plantations</li>
+<li>Water Facilities </li><li>15mins Drive  to KIA Plant</li><li>30mins Drive to Anantapur</li><li>Future investment High Returns</li></ul>",
+    "emi" :"yes",
+    "negotiable": "false"
+  },
+  {
     "id": 5,
     "title": "Kalyandurgam road, Anantapur",
     "price": 4500000,
