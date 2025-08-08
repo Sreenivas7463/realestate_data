@@ -33,7 +33,9 @@
     "bathrooms": 2,
     "openplot": "yes",
     "area": 1320,
-     "car" :"yes",
+    "area1": 1640,
+    "area2": 2496, 
+    "car" :"yes",
     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(2).jpg",
      "images": [
         "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Daduluru%20(1).jpg",
