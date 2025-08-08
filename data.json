@@ -1,5 +1,29 @@
 [
   {
+    "id": 5,
+    "title": "Kalyandurgam road, Anantapur",
+    "price": 4500000,
+    "address": "1 km Distance to Hyderabad - Bangalore Highway",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+    "area": 880,
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/kalyandurgam%20(1).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/kalyandurgam%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/kalyandurgam%20(2).jpg",
+        "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/kalyandurgam%20(1).mp4"
+         ],
+    "type": "Houses / Villas",
+    "featured": true,
+    "rating": 4.8,
+    "description": "<ul><li>Plot size 22*40</li><li>North facing house</li><li>2 cent and 2.5cent houses available</li><li>1/2 km distance in kld road, school, hospital </li><li> Cuoboards, wood work, pop, bore well, sampu... all facilities available </li><li>front 23 feet roads</li></ul>",
+    "emi" :"Yes",
+    "zdp": " Loan Available",
+    "discount": "Spot Reg. 10% Disc",
+     "negotiable": "true"
+  },
+  {
     "id": 4,
     "title": "Vadiyampeta, Anantapur",
     "price": 330000,
