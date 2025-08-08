@@ -1,4 +1,30 @@
 [
+    {
+    "id": 8,
+    "title": "Bramhanapalli, Anantapur ",
+    "price": 500000,
+    "address": "Bellary ByPass  Main Road Bit",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1530,
+   "area1": 1734,
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
+        "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/Bramhanapalli.mp4"
+         ],
+    "type": "Commercial",
+    "featured": true,
+    "rating": 4.9,
+    "description": "<ul><li>Commercial plots Available </li><li>plots 2.5cent , 3.5 cent, 4 cent </li><li>kammuru road having connectivity</li><li>30 feet BT Roads  </li><li> Water Facilities </li><li>Plantation </li><li> Street lights </li><li>compound wall </li><li>Electricity</li><li>Near to bramhanapalli village, international schools, hospital</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "true"
+  },
    {
     "id": 7,
     "title": "Bellary Road, Anantapur",
