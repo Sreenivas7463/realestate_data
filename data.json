@@ -1,5 +1,32 @@
 [
   {
+    "id": 4,
+    "title": "Vadiyampeta, Anantapur",
+    "price": 330000,
+    "address": "1 km Distance to Hyd - Bang Highway",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+    "area": 4900,
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(3).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(2).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(4).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(5).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(6).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(7).jpg",
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(1).jpg"
+    ],
+    "type": "Plots",
+    "featured": true,
+    "rating": 4.8,
+    "description": "<ul><li>Plot size 70*70</li><li>Each plot 11.2cent </li><li><strong>Cent -- 3,30,000/- (Negotiable)</strong></li><li>East facing plots </li><li>Front 30 feet Black Roads</li><li>East Facing </li><li>Each plot seperate boundary </li><li>compound wall  </li><li>Entrance Gate </li><li>Near Skandansi, VVK project are running</li><li>Kesava reddy school backside (Vadiyampeta)</li></ul>",
+    "emi" :"No",
+    "discount": "Spot Reg. 10% Disc",
+     "negotiable": "true"
+  },
+  {
     "id": 1,
     "title": "Vaddipally, Anantapur",
     "price": 180000,
@@ -77,32 +104,5 @@
     "emi" :"Yes",
     "discount": "10% disc. On Spot Payment",
     "negotiable": "true"
-  },
-  {
-    "id": 4,
-    "title": "Vadiyampeta, Anantapur",
-    "price": 330000,
-    "address": "1 km Distance to Hyd - Bang Highway",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "openplot": "yes",
-    "area": 4900,
-    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(2).jpg",
-     "images": [
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(3).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(2).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(4).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(5).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(6).jpg",
-       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(7).jpg",
-      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Vadiyampeta%20(1).jpg"
-    ],
-    "type": "Plots",
-    "featured": true,
-    "rating": 4.8,
-    "description": "<ul><li>Plot size 70*70</li><li>Each plot 11.2cent </li><li><strong>Cent -- 3,30,000/- (Negotiable)</strong></li><li>East facing plots </li><li>Front 30 feet Black Roads</li><li>East Facing </li><li>Each plot seperate boundary </li><li>compound wall  </li><li>Entrance Gate </li><li>Near Skandansi, VVK project are running</li><li>Kesava reddy school backside (Vadiyampeta)</li></ul>",
-    "emi" :"Yes",
-    "discount": "Spot Reg. 10% Disc",
-     "negotiable": "true"
   }
 ]
