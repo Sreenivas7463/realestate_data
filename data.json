@@ -1,4 +1,29 @@
 [ {
+    "id": 10,
+    "title": "Kurgunta village, Anantapur",
+    "price": 250000,
+    "address": "Near Kurgunta village, Kalyanadurgam Road",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1760,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurgunta%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurgunta%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurgunta%20(2).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurgunta%20(4).jpg"
+         ],
+    "type": "Plots",
+    "featured": false,
+    "rating": 4.9,
+    "description": "<ul><li>Walkable distance KLD Road</li><li> Plots 4 cent</li><li>Name board</li><li>Plantation</li><li>30 & 40 Feet BT Roads </li><li>Nearest schools , hospital</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "false"
+    },
+    {
     "id": 9,
     "title": "Brahmana Palli, Anantapur",
     "price": 450000,
