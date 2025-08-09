@@ -1,4 +1,29 @@
-[ 
+[ {
+    "id": 9,
+    "title": "Brahmana Palli, Anantapur",
+    "price": 450000,
+    "address": "Near Veridian Ecole Int. School",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1089,
+   "area1": 1749,
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
+        "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/Bramhanapalli.mp4"
+         ],
+    "type": "Commercial",
+    "featured": false,
+    "rating": 4.7,
+    "description": "<ul><li>Plots 2.5cent , 4 cent </li><li>30 feet BT Roads</li><li>Bellary Main road residential venture </li><li>Clear Tittle, 100% Vastu </li><li> Water Facilities </li><li>Near to bramhanapalli village, international schools, hospital </li><li>plantation</li><li> Street lights </li><li>compound wall </li><li>Electricity</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "true"
+    },
     {
     "id": 8,
     "title": "Bramhanapalli, Anantapur ",
