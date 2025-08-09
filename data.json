@@ -1,4 +1,29 @@
 [ {
+    "id": 11,
+    "title": "Chippagiri, Guntakal",
+    "price": 40000,
+    "address": "Nearest Hanuman circle Guntakal ",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1350,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Chippagiri%20(2).jpg",
+     "images": [
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Chippagiri%20(3).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Chippagiri%20(2).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Chippagiri%20(1).jpg"
+         ],
+    "type": "Plots",
+    "featured": false,
+    "rating": 4.9,
+    "description": "<ul><li>40 & 30 feet Roads</li><li> Nearest Hanuman circle Guntakal </li><li> Children park available </li><li>Name board</li><li>Compound wall </li><li>Plantation  </li><li>Clear Tittle </li><li>100% Vastu</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "false"
+    },
+    {
     "id": 10,
     "title": "Kurgunta village, Anantapur",
     "price": 250000,
