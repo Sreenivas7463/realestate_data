@@ -9,11 +9,13 @@
    "car": "yes",
     "area": 1089,
    "area1": 1749,
-    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
+    "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(5).jpg",
      "images": [
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(1).jpg",
-        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli%20(2).jpg",
-        "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/Bramhanapalli.mp4"
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(1).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(3).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(4).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(5).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Bramhanapalli01%20(2).jpg"
          ],
     "type": "Commercial",
     "featured": false,
