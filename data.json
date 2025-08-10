@@ -1,4 +1,31 @@
 [ {
+    "id": 12,
+    "title": "Kurugunta , Anantapur",
+    "price": 300000,
+    "address": "st. Johns Residencial School ",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1350,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(5).jpg",
+     "images": [
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(1).jpg",
+	 "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(2).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(3).jpg",
+        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(4).jpg",
+	"https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kurugunta01%20(5).jpg"
+         ],
+    "type": "Plots",
+    "featured": false,
+    "rating": 4.8,
+    "description": "<ul><li>Plot size 30 * 45</li><li>walkable distance kalyandurgam road bypass </li><li> 30 feets black top roads</li><li>name boards</li><li>Compound wall </li><li>8km distance bangalore - Hyderabad national highway</li><li>near by schools,  hospitals, shopping malls </li><li> 100% Clear Tittle, Legal openion</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "false"
+    },
+    {
     "id": 11,
     "title": "Chippagiri, Guntakal",
     "price": 40000,
