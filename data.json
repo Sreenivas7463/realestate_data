@@ -1,4 +1,25 @@
-[ 
+[ {
+    "id": 13,
+    "title": "Raptadu, Anantapur",
+    "price": 650000,
+    "address": "st. Johns Residencial School ",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "no",
+    "area": 1308,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu..jpg",
+     "images": [
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu..jpg" ],
+    "type": "Resale Plots",
+    "featured": false,
+    "rating": 4.7,
+    "description": "<ul><li>Resale plots Syno: 606/2A4---40, 41</li><li>Resale plots Syno: 606/2A1---78, 79 </li><li>Each plot 3cent ( total 12 cent)</li><li>walkable distance of Bangalore - Hyderabad national highway</li><li> venture name is SRI KRISHNA TOWNSHIP </li><li>500mtrs of Rapthadu circle</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "true"
+    },
 	{
     "id": 12,
     "title": "Kurugunta , Anantapur",
