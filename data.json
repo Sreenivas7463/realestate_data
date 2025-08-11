@@ -2,14 +2,16 @@
     "id": 13,
     "title": "Raptadu, Anantapur",
     "price": 650000,
-    "address": "Raptadu, autonagar. Opp walkable distance Bang Highway",
+    "address": "Raptadu, autonagar.  Opp walkable distance Bang Highway ",
     "bedrooms": 2,
     "bathrooms": 2,
     "openplot": "yes",
    "car": "no",
     "area": 1308,
-     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu..jpg",
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu.%20(1).jpg",
      "images": [
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu.%20(1).jpg",
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu.%20(2).jpg",
        "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Raptadu..jpg" ],
     "type": "Resale Plots",
     "featured": false,
@@ -19,7 +21,7 @@
     "zdp": "",
     "discount": "",
      "negotiable": "true"
-    },
+   },
 	{
     "id": 12,
     "title": "Kurugunta , Anantapur",
