@@ -1,4 +1,29 @@
-[ {
+[ 
+	{
+    "id": 14,
+    "title": "Hanchanhal , Guntakal",
+    "price": 100000,
+    "address": "Bellaty- Nellore (NH63) Highway Road Vencture ",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "yes",
+   "car": "yes",
+    "area": 1350,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Hanchanhal%20(1).jpg",
+     "images": [
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Hanchanhal%20(3).jpg",
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Hanchanhal%20(2).jpg",
+       "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Hanchanhal%20(1).jpg" ],
+    "type": "Commercial",
+    "featured": false,
+    "rating": 4.7,
+    "description": "<ul><li>Road bit commercial plots Bellary - Nellore NH-63 Highway </li><li>30 feet Roads </li><li>100% clear title</li><li>Land conversion </li><li>Total compound wall  </li><li>Name board for Each plot</li></ul>",
+    "emi" :"no",
+    "zdp": "",
+    "discount": "",
+     "negotiable": "false"
+    },
+	{
     "id": 13,
     "title": "Raptadu, Anantapur",
     "price": 650000,
