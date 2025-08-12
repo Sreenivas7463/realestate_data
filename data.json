@@ -1,4 +1,30 @@
 [ 
+	 {
+    "id": 15,
+    "title": "Kalyandurgam road, Anantapur",
+    "price": 8000000,
+    "address": "Near st. Ann's school",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "openplot": "no",
+   "car": "no",
+    "area": 1740,
+     "image": "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kalyandurgam02%20(1).jpg",
+     "images": [
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kalyandurgam02%20(2).jpg",
+      "https://raw.githubusercontent.com/Sreenivas7463/realestate_data/refs/heads/main/img/Kalyandurgam02%20(1).jpg",
+       "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/Kalyandurgam02_2.mp4",
+      "https://github.com/Sreenivas7463/realestate_data/raw/refs/heads/main/vids/Kalyandurgam02_1.mp4" 
+    ],
+    "type": "Houses / Villas",
+    "featured": true,
+    "rating": 4.9,
+    "description": "<ul><li>Near St.Ann's school, kalyandurgam road </li><li><strong>Corner individual house </strong></li><li>North facing</li><li>front 23feet roads </li><li>4cent in 2bhk </li><li>wood work, pop, caboards, bore, sampu, car parking...all facilities available </li><li>500mtrs away kalyan durgam by pass</li><li>schools , hospital, are near by house</li></ul>",
+    "emi" :"no",
+    "zdp": "Loan Facilites",
+    "discount": "",
+     "negotiable": "true"
+    },
 	{
     "id": 14,
     "title": "Hanchanhal , Guntakal",
